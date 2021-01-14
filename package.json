@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A javascript/typescript async implemented localStorage library.",
   "license": "MIT",
+  "homepage": "https://github.com/wit03/async-localstorage",
   "repository": {
     "type": "git",
     "url": "https://github.com/wit03/async-localstorage.git"
@@ -15,5 +16,8 @@
     "localstorage-async",
     "wit03"
   ],
-  "author": "wit03"
+  "author": {
+      "name": "wit03",
+      "email": "witjarukit@gmail.com"
+  }
 }
