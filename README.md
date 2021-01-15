@@ -28,7 +28,7 @@ setItem(key, data).then(()=> {
     //value has been set
 })
 //getItem
-getItem(key).then(()=> {
+getItem(key).then((value)=> {
     //value has been set
 })
 ```
@@ -41,8 +41,8 @@ asyncLocalStorage.setItem(key, data).then(()=> {
     //value has been set
 })
 //getItem
-asyncLocalStorage.getItem(key).then(()=> {
-    //value has been set
+asyncLocalStorage.getItem(key).then((value)=> {
+    //return value data
 })
 ```
 ## Contributions
