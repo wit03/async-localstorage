@@ -29,7 +29,7 @@ setItem(key, data).then(()=> {
 })
 //getItem
 getItem(key).then((value)=> {
-    //value has been set
+    //return value data
 })
 ```
 2. Module
