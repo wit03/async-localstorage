@@ -6,7 +6,7 @@
 
 # Async LocalStorage
 
-Async implemented localStorage library for javascript and typescript.
+Async implemented localStorage library for javascript and typescript (coming soon).
 
 ## Why?
 Since localStorage API is a synchronous and took so long to get or set value which is pretty annoying. Using Async LocalStorage will helps you deal with race condition.
